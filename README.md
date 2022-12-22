@@ -1,1 +1,1 @@
-# puh-chess
+Chess tasks for PUH!
